@@ -124,7 +124,7 @@
 
 ## Utilizando While
 
-# n = int(input("Digite o valor de n: "))
+# n = int(input("Digite o valor que deseja calcular o fatorial: "))
 # fat = 1
 # i = 2
 
@@ -134,3 +134,11 @@
 # print(f"O valor de {n}! é = {fat}")
 
 ## Utilizando For
+
+# numero = int(input("Digite o valor que deseja calcular o fatorial: ") )
+
+# resultado=1
+# for n in range(1,numero+1):
+#     resultado *= n
+
+# print(f"O valor de {numero}! é = {resultado}")
