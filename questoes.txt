@@ -1,0 +1,15 @@
+# Faça um programa, utilizando while, que mostre na tela os números de 0 a 100.
+
+# Faça um programa, utilizando while, que mostre na tela de 0 até N, em que N é o limite inserido pelo usuário.
+
+# Faça um programa que diz se o número inserido é par ou ímpar.
+
+# Faça um programa que imprima a quantidade de números pares entre dois números da sua escolha.
+
+# Faça um programa que imprima a soma de todos os números pares entre dois números da sua escolha.
+
+# Faça um programa que recebe um inteiro do usuário e diz se esse número é múltiplo de 3 ou não.
+
+# Faça um programa para sortear um número aleatório em uma lista de 1 ao 9.
+
+# Faça um programa que mostre o fatorial de um número.
